@@ -1,90 +1,92 @@
 <div align="center">
-  <img src="hero_video.webp" alt="Vinayak Sharma - Agentic AI & Robotics Engineering Laboratory" width="100%">
+  <img src="hero_video.webp" alt="Vinayak Sharma - ByteBastion Engineering Laboratory" width="100%">
   
   # Vinayak Sharma
-  **Web & App Developer | Agentic AI Developer | Core Contributor at EDEMS Pvt. Ltd.**
+  **Agentic AI Developer | Full-Stack Engineer | Robotics & Embedded Systems Builder**
+  <p>Founder & Lead Architect at <strong>ByteBastion</strong> | Core Contributor at <strong>EDEMS Pvt. Ltd.</strong></p>
 </div>
 
 ---
 
-### 🚀 Professional Summary
-- **Specialization**: Web & App Development (Flutter), Agentic AI Systems, and Coding, Robotics & STEAM Education.
-- **Current Role**: Core contributor to **EDEMS Pvt. Ltd.** projects, bridging the gap between digital intelligence and physical execution.
-- **Focus**: Building scalable multi-agent workflows, real-world AI applications, and fostering innovation through STEM mentorship.
+### 🛡️ About ByteBastion
+
+**ByteBastion** is an independent engineering laboratory and software foundry dedicated to building robust, autonomous, and physically grounded computing systems. The laboratory operates across three specialized technical divisions:
+
+| Division | Domain | Core Focus & Technologies |
+| :--- | :--- | :--- |
+| **🐛 Bug.exe** | **Full-Stack & Systems** | High-performance web applications, responsive architectures, cross-platform mobile apps (Next.js 16, TypeScript, Flutter, Tailwind CSS). |
+| **🤖 Agent.exe** | **Agentic AI & Multimodal** | Autonomous agentic workflows, multimodal LLM pipelines, real-time tool orchestration, Model Context Protocol (MCP), and intelligent reasoning. |
+| **⚙️ Mecha.exe** | **Robotics & Embedded IoT** | Computer vision perception (YOLOv8, OpenCV), dual-core microcontroller firmware (ESP32-S3, Arduino), DMA/I2S signal streaming, and physical motor actuation. |
 
 ---
 
-### 🌐 Portfolio Preview
+### 🌐 Live Portfolio & Showcase
 
 <div align="center">
   <a href="https://vinayaksharmadev.vercel.app/">
     <img src="portfolio_hero_video.webp" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
   </a>
   <br>
-  <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
+  <strong>Explore the live interactive radar chart, case studies, and architecture traces at:</strong><br>
+  👉 <a href="https://vinayaksharmadev.vercel.app/"><strong>vinayaksharmadev.vercel.app</strong></a>
 </div>
 
 ---
 
-### 🏢 EDEMS Pvt. Ltd. Projects & Contributions
-
-| ![N2N Networking Platform](n2n_v_video.webp) | ![Autonomous AI Sales Agent](gmb_sales_agent_video.webp) |
-| :---: | :---: |
-| **[N2N Networking Platform](https://github.com/TechBastards/n2n-v)**<br>A social and recruitment network bridging students and corporations. Features smart resume parsing and autonomous hiring agents. | **[Autonomous AI Sales Agent](https://github.com/TechBastards/gmb-sales-agent)**<br>An enterprise-grade, mobile AI Sales CRM. Discovers business leads and manages end-to-end outreach via WhatsApp using Gemini AI. |
-
----
-
-### 🌟 Personal Flagship Projects
+### 🌟 Flagship Engineering Projects
 
 | ![SAGE](sage_ai_video.webp) | ![Vision-Controlled Robotic Arm](robotic_arm_video.webp) |
 | :---: | :---: |
-| **[SAGE](https://github.com/TechBastards/SAGE-AI)**<br>An intelligent wearable prototype integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Leveraging computer vision and AI for selective object manipulation. |
+| **[SAGE - Wearable Multimodal AI System](https://github.com/TechBastards/SAGE-AI)**<br>*(Divisions: Mecha.exe & Agent.exe)*<br>Hardware-integrated wearable memory device running on Seeed XIAO ESP32-S3 Sense. Captures synchronized audio/video via DMA and I2S, streams over local Wi-Fi AP, and coordinates multimodal AI perception with Gemini. | **[Vision-Controlled 5-DOF Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>*(Division: Mecha.exe)*<br>Deep learning computer vision perception using YOLOv8, real-world 2D Cartesian workspace mapping, and multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers with a Flask control interface. |
+
+---
+
+### 🏢 Enterprise & Commercial Systems (EDEMS Pvt. Ltd.)
+
+| ![N2N Networking Platform](n2n_v_video.webp) | ![Autonomous AI Sales Agent](gmb_sales_agent_video.webp) |
+| :---: | :---: |
+| **N2N Professional Platform**<br>*(Division: Bug.exe)*<br>High-scale mobile networking and talent ecosystem built with Flutter and Supabase. Features structured resume parsing pipelines and real-time student-corporate engagement channels. *(Enterprise Client Project)* | **Autonomous Lead & Outreach Engine**<br>*(Division: Agent.exe)*<br>Mobile enterprise sales intelligence application. Automates business lead qualification from OpenStreetMap and orchestrates multi-stage WhatsApp outreach workflows. *(Enterprise Client Project)* |
+
+*Note: Enterprise client codebases are proprietary to EDEMS Pvt. Ltd. Detailed architecture breakdowns and system flows are available on the [live portfolio](https://vinayaksharmadev.vercel.app/).*
 
 ---
 
 ### ⚙️ Core Engineering Competencies
-- **Agentic AI & LLMs**: AI Workflow Automation, LLM Applications, Prompt Engineering, and Multi-agent orchestration.
-- **Web & App Development**: Full-stack web development and cross-platform mobile apps (Flutter).
-- **Robotics & Embedded**: Sensor-rich hardware prototyping, motor control logic, and electronics.
-- **Computer Science Fundamentals**: DBMS, Operating Systems, Computer Networks, and Software Engineering.
+
+- **Agentic AI & LLM Systems**: Autonomous tool execution, prompt engineering, multi-turn dialogue state tracking, Model Context Protocol (MCP), and multimodal Gemini API pipelines.
+- **Full-Stack & Mobile Development**: Next.js 16 (App Router), React 19, TypeScript, Flutter (Dart), state management, and modern CSS/Framer Motion aesthetics.
+- **Embedded Systems & Robotics**: ESP32-S3 firmware, FreeRTOS dual-core tasking, camera DMA, I2S audio sampling, Arduino microcontroller serial dispatch, and sensor integration.
+- **Computer Science Fundamentals**: Data Structures & Algorithms, Database Management Systems (PostgreSQL, Supabase), Operating Systems, and Software Architecture.
 
 ---
 
 ### 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📊 Coding Activity & GitHub Stats
+### 📊 Coding Activity & Technical Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsbeginner&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechBastards&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <a href="https://leetcode.com/u/vinayaksharma14/">
     <img src="leetcode-stats.svg" alt="LeetCode Stats" width="48%">
   </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsbeginner&theme=nord&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
@@ -94,5 +96,5 @@
   <a href="https://github.com/TechBastards"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://vinayaksharmadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/vinayaksharma14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="mailto:TechBastards@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:vsbeginner14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
