@@ -54,9 +54,9 @@
 ### ⚙️ Core Engineering Competencies
 
 - **Agentic AI & LLM Systems**: Autonomous tool execution, prompt engineering, multi-turn dialogue state tracking, Model Context Protocol (MCP), and multimodal Gemini API pipelines.
-- **Full-Stack & Mobile Development**: Next.js 16 (App Router), React 19, TypeScript, Flutter (Dart), state management, and modern CSS/Framer Motion aesthetics.
+- **Full-Stack & Mobile Development**: Next.js 16 (App Router), React 19, Flutter (Dart).
 - **Embedded Systems & Robotics**: ESP32-S3 firmware, FreeRTOS dual-core tasking, camera DMA, I2S audio sampling, Arduino microcontroller serial dispatch, and sensor integration.
-- **Computer Science Fundamentals**: Data Structures & Algorithms, Database Management Systems (PostgreSQL, Supabase), Operating Systems, and Software Architecture.
+- **Computer Science Fundamentals**: Database Management System, Operating Systems, Computer Networks, Computer Architecture and Software Engineering.
 
 ---
 
@@ -64,7 +64,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -80,21 +79,9 @@
 
 ---
 
-### 📊 Coding Activity & Technical Highlights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechBastards&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <a href="https://leetcode.com/u/vinayaksharma14/">
-    <img src="leetcode-stats.svg" alt="LeetCode Stats" width="48%">
-  </a>
-</div>
-
----
-
 <div align="center">
   <a href="https://linkedin.com/in/vinayak-sharma-24a8aa384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/TechBastards"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://vinayaksharmadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/vinayaksharma14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="mailto:vsbeginner14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
