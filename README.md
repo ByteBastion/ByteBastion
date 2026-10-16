@@ -2,7 +2,7 @@
   <img src="hero_video.webp" alt="Vinayak Sharma - ByteBastion Engineering Laboratory" width="100%">
   
   # Vinayak Sharma
-  **Agentic AI Developer | Full-Stack Engineer | Robotics & Embedded Systems Builder**
+  **Agentic AI Developer | Robotics & Embedded Systems Builder**
   <p>Founder & Lead Architect at <strong>ByteBastion</strong> | Core Contributor at <strong>EDEMS Pvt. Ltd.</strong></p>
 </div>
 
