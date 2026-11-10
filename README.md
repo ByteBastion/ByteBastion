@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Live Portfolio & Showcase
+### 🌐 Live Portfolio
 
 <div align="center">
   <a href="https://vinayaksharmadev.vercel.app/">
