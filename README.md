@@ -10,8 +10,6 @@
 
 ### 🛡️ About ByteBastion
 
-**ByteBastion** is an independent engineering laboratory and software foundry dedicated to building robust, autonomous, and physically grounded computing systems. The laboratory operates across three specialized technical divisions:
-
 | Division | Domain | Core Focus & Technologies |
 | :--- | :--- | :--- |
 |  Bug.exe | **Full-Stack & Systems** | High-performance web applications, responsive architectures, cross-platform mobile apps (Next.js 16, TypeScript, Flutter, Tailwind CSS). |
