@@ -14,9 +14,9 @@
 
 | Division | Domain | Core Focus & Technologies |
 | :--- | :--- | :--- |
-| **🐛 Bug.exe** | **Full-Stack & Systems** | High-performance web applications, responsive architectures, cross-platform mobile apps (Next.js 16, TypeScript, Flutter, Tailwind CSS). |
-| **🤖 Agent.exe** | **Agentic AI & Multimodal** | Autonomous agentic workflows, multimodal LLM pipelines, real-time tool orchestration, Model Context Protocol (MCP), and intelligent reasoning. |
-| **⚙️ Mecha.exe** | **Robotics & Embedded IoT** | Computer vision perception (YOLOv8, OpenCV), dual-core microcontroller firmware (ESP32-S3, Arduino), DMA/I2S signal streaming, and physical motor actuation. |
+| ** Bug.exe** | **Full-Stack & Systems** | High-performance web applications, responsive architectures, cross-platform mobile apps (Next.js 16, TypeScript, Flutter, Tailwind CSS). |
+| ** Agent.exe** | **Agentic AI & Multimodal** | Autonomous agentic workflows, multimodal LLM pipelines, real-time tool orchestration, Model Context Protocol (MCP), and intelligent reasoning. |
+| ** Mecha.exe** | **Robotics & Embedded IoT** | Computer vision perception (YOLOv8, OpenCV), dual-core microcontroller firmware (ESP32-S3, Arduino), DMA/I2S signal streaming, and physical motor actuation. |
 
 ---
 
