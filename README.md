@@ -46,17 +46,67 @@
 
 ### 🌟 Flagship Engineering Projects
 
-| ![SAGE](sage_ai_video.webp) | ![Vision-Controlled Robotic Arm](robotic_arm_video.webp) |
-| :---: | :---: |
-| **[SAGE — Wearable Multimodal AI Memory System](https://github.com/ByteBastion/SAGE-Product)**<br>*(Divisions: Mecha.exe &amp; Agent.exe)*<br>End-to-end multimodal memory system uniting a Seeed XIAO ESP32-S3 Sense wearable (FreeRTOS dual-core video/I2S audio streaming), Flutter + Kotlin Android client (post-hoc AVI drift muxer &amp; Android Keystore BYOK), Gemini 7-pillar scene understanding, Hybrid RAG, and user-owned Google Drive sync. | **[Vision-Controlled 5-DOF Robotic Arm](https://github.com/ByteBastion/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>*(Division: Mecha.exe)*<br>Deep learning computer vision perception using YOLOv8, real-world 2D Cartesian workspace mapping, and multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers with a Flask control interface. |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center">
+        <a href="https://github.com/ByteBastion/SAGE-Product">
+          <img src="sage_ai_video.webp" alt="SAGE" width="100%">
+        </a>
+      </th>
+      <th width="50%" align="center">
+        <a href="https://github.com/ByteBastion/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation">
+          <img src="robotic_arm_video.webp" alt="Vision-Controlled Robotic Arm" width="100%">
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/ByteBastion/SAGE-Product"><strong>SAGE — Wearable Multimodal AI Memory System</strong></a><br>
+        <em>(Divisions: Mecha.exe &amp; Agent.exe)</em><br>
+        End-to-end multimodal memory wearable on Seeed XIAO ESP32-S3 Sense. Features FreeRTOS dual-core video/audio streaming, native Android AVI drift muxer, Google Gemini 7-pillar scene understanding, Hybrid RAG, and user-owned Google Drive sync.
+      </td>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/ByteBastion/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation"><strong>Vision-Controlled 5-DOF Robotic Arm</strong></a><br>
+        <em>(Division: Mecha.exe)</em><br>
+        Deep learning computer vision perception and manipulation using YOLOv8, real-world 2D Cartesian workspace mapping, multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers, and a Flask control interface.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 🏢 Enterprise & Commercial Systems (EDEMS Pvt. Ltd.)
 
-| ![N2N Networking Platform](n2n_v_video.webp) | ![Autonomous AI Sales Agent](gmb_sales_agent_video.webp) |
-| :---: | :---: |
-| **N2N Professional Platform**<br>*(Division: Bug.exe)*<br>High-scale mobile networking and talent ecosystem built with Flutter and Supabase. Features structured resume parsing pipelines and real-time student-corporate engagement channels. *(Enterprise Client Project)* | **Autonomous Lead & Outreach Engine**<br>*(Division: Agent.exe)*<br>Mobile enterprise sales intelligence application. Automates business lead qualification from OpenStreetMap and orchestrates multi-stage WhatsApp outreach workflows. *(Enterprise Client Project)* |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center">
+        <img src="n2n_v_video.webp" alt="N2N Networking Platform" width="100%">
+      </th>
+      <th width="50%" align="center">
+        <img src="gmb_sales_agent_video.webp" alt="Autonomous AI Sales Agent" width="100%">
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <strong>N2N Professional Platform</strong><br>
+        <em>(Division: Bug.exe)</em><br>
+        High-scale mobile networking and talent ecosystem built with Flutter and Supabase. Features structured resume parsing pipelines and real-time student-corporate engagement channels. <em>(Enterprise Client Project)</em>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <strong>Autonomous Lead &amp; Outreach Engine</strong><br>
+        <em>(Division: Agent.exe)</em><br>
+        Mobile enterprise sales intelligence application. Automates business lead qualification from OpenStreetMap and orchestrates multi-stage WhatsApp outreach workflows. <em>(Enterprise Client Project)</em>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 *Note: Enterprise client codebases are proprietary to EDEMS Pvt. Ltd. Detailed architecture breakdowns and system flows are available on the [live portfolio](https://vinayaksharmadev.vercel.app/).*
 
