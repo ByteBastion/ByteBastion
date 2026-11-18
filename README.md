@@ -3,6 +3,7 @@
   
   # Vinayak Sharma
   **Agentic AI Developer | Robotics & Embedded Systems Builder**
+  <p><em>Building AI systems that connect intelligence with the physical world.</em></p>
   <p>Core Contributor at <strong>EDEMS Pvt. Ltd.</strong></p>
 </div>
 
@@ -35,7 +36,7 @@
 
 | ![SAGE](sage_ai_video.webp) | ![Vision-Controlled Robotic Arm](robotic_arm_video.webp) |
 | :---: | :---: |
-| **[SAGE - Wearable Multimodal AI System](https://github.com/TechBastards/SAGE-AI)**<br>*(Divisions: Mecha.exe & Agent.exe)*<br>Hardware-integrated wearable memory device running on Seeed XIAO ESP32-S3 Sense. Captures synchronized audio/video via DMA and I2S, streams over local Wi-Fi AP, and coordinates multimodal AI perception with Gemini. | **[Vision-Controlled 5-DOF Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>*(Division: Mecha.exe)*<br>Deep learning computer vision perception using YOLOv8, real-world 2D Cartesian workspace mapping, and multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers with a Flask control interface. |
+| **[SAGE — Wearable Multimodal AI Memory System](https://github.com/ByteBastion/SAGE-Product)**<br>*(Divisions: Mecha.exe &amp; Agent.exe)*<br>End-to-end multimodal memory system uniting a Seeed XIAO ESP32-S3 Sense wearable (FreeRTOS dual-core video/I2S audio streaming), Flutter + Kotlin Android client (post-hoc AVI drift muxer &amp; Android Keystore BYOK), Gemini 7-pillar scene understanding, Hybrid RAG, and user-owned Google Drive sync.<br>👉 **[Product &amp; Android APK](https://github.com/ByteBastion/SAGE-Product)** · **[Research &amp; Methodology](https://github.com/ByteBastion/SAGE-AI)** | **[Vision-Controlled 5-DOF Robotic Arm](https://github.com/ByteBastion/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>*(Division: Mecha.exe)*<br>Deep learning computer vision perception using YOLOv8, real-world 2D Cartesian workspace mapping, and multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers with a Flask control interface. |
 
 ---
 
@@ -79,7 +80,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/vinayak-sharma-24a8aa384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/TechBastards"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/ByteBastion"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://vinayaksharmadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/vinayaksharma14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </div>
