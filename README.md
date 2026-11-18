@@ -5,6 +5,18 @@
   **Agentic AI Developer | Robotics & Embedded Systems Builder**
   <p><em>Building AI systems that connect intelligence with the physical world.</em></p>
   <p>Core Contributor at <strong>EDEMS Pvt. Ltd.</strong></p>
+
+  <p>
+    <a href="https://github.com/ByteBastion/SAGE-Product/releases/download/v1.0.0/SAGE-v1.0.0-android.apk">
+      <img src="https://img.shields.io/badge/Download-SAGE%20v1.0.0%20APK-1E9E5A?style=for-the-badge&logo=android&logoColor=white" alt="Download SAGE v1.0.0 APK" />
+    </a>
+    <a href="https://github.com/ByteBastion/SAGE-Product/releases/tag/v1.0.0">
+      <img src="https://img.shields.io/badge/Release-v1.0.0-0060AA?style=for-the-badge&logo=github" alt="Release v1.0.0" />
+    </a>
+    <a href="https://github.com/ByteBastion/SAGE-Product">
+      <img src="https://img.shields.io/badge/SAGE-Product%20Showcase-black?style=for-the-badge&logo=github&logoColor=white" alt="SAGE Product Showcase" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -36,7 +48,7 @@
 
 | ![SAGE](sage_ai_video.webp) | ![Vision-Controlled Robotic Arm](robotic_arm_video.webp) |
 | :---: | :---: |
-| **[SAGE — Wearable Multimodal AI Memory System](https://github.com/ByteBastion/SAGE-Product)**<br>*(Divisions: Mecha.exe &amp; Agent.exe)*<br>End-to-end multimodal memory system uniting a Seeed XIAO ESP32-S3 Sense wearable (FreeRTOS dual-core video/I2S audio streaming), Flutter + Kotlin Android client (post-hoc AVI drift muxer &amp; Android Keystore BYOK), Gemini 7-pillar scene understanding, Hybrid RAG, and user-owned Google Drive sync.<br><br><a href="https://github.com/ByteBastion/SAGE-Product/releases/download/v1.0.0/SAGE-v1.0.0-android.apk"><img src="https://img.shields.io/badge/Download-SAGE%20v1.0.0%20APK-1E9E5A?style=for-the-badge&logo=android&logoColor=white" alt="Download SAGE APK" height="24"/></a> <a href="https://github.com/ByteBastion/SAGE-Product/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-0060AA?style=for-the-badge&logo=github" alt="Release v1.0.0" height="24"/></a><br><br>👉 📲 **[Download APK (v1.0.0)](https://github.com/ByteBastion/SAGE-Product/releases/download/v1.0.0/SAGE-v1.0.0-android.apk)** · **[Product Showcase](https://github.com/ByteBastion/SAGE-Product)** · **[Research &amp; Methodology](https://github.com/ByteBastion/SAGE-AI)** | **[Vision-Controlled 5-DOF Robotic Arm](https://github.com/ByteBastion/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>*(Division: Mecha.exe)*<br>Deep learning computer vision perception using YOLOv8, real-world 2D Cartesian workspace mapping, and multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers with a Flask control interface. |
+| **[SAGE — Wearable Multimodal AI Memory System](https://github.com/ByteBastion/SAGE-Product)**<br>*(Divisions: Mecha.exe &amp; Agent.exe)*<br>End-to-end multimodal memory system uniting a Seeed XIAO ESP32-S3 Sense wearable (FreeRTOS dual-core video/I2S audio streaming), Flutter + Kotlin Android client (post-hoc AVI drift muxer &amp; Android Keystore BYOK), Gemini 7-pillar scene understanding, Hybrid RAG, and user-owned Google Drive sync.<br>👉 📲 **[Download APK (v1.0.0)](https://github.com/ByteBastion/SAGE-Product/releases/download/v1.0.0/SAGE-v1.0.0-android.apk)** · **[Product Showcase](https://github.com/ByteBastion/SAGE-Product)** · **[Research &amp; Methodology](https://github.com/ByteBastion/SAGE-AI)** | **[Vision-Controlled 5-DOF Robotic Arm](https://github.com/ByteBastion/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>*(Division: Mecha.exe)*<br>Deep learning computer vision perception using YOLOv8, real-world 2D Cartesian workspace mapping, and multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers with a Flask control interface. |
 
 ---
 
