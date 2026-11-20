@@ -7,11 +7,11 @@
   <p>Core Contributor at <strong>EDEMS Pvt. Ltd.</strong></p>
 
   <p>
-    <a href="https://github.com/ByteBastion/SAGE-Product/releases/download/v1.0.0/SAGE-v1.0.0-android.apk">
-      <img src="https://img.shields.io/badge/Download-SAGE%20v1.0.0%20APK-1E9E5A?style=for-the-badge&logo=android&logoColor=white" alt="Download SAGE v1.0.0 APK" />
+    <a href="https://github.com/ByteBastion/SAGE-Product/releases/download/v1.0.1/SAGE-v1.0.1-android.apk">
+      <img src="https://img.shields.io/badge/Download-SAGE%20v1.0.1%20APK-1E9E5A?style=for-the-badge&logo=android&logoColor=white" alt="Download SAGE v1.0.1 APK" />
     </a>
-    <a href="https://github.com/ByteBastion/SAGE-Product/releases/tag/v1.0.0">
-      <img src="https://img.shields.io/badge/Release-v1.0.0-0060AA?style=for-the-badge&logo=github" alt="Release v1.0.0" />
+    <a href="https://github.com/ByteBastion/SAGE-Product/releases/tag/v1.0.1">
+      <img src="https://img.shields.io/badge/Release-v1.0.1-0060AA?style=for-the-badge&logo=github" alt="Release v1.0.1" />
     </a>
     <a href="https://github.com/ByteBastion/SAGE-Product">
       <img src="https://img.shields.io/badge/SAGE-Product%20Showcase-black?style=for-the-badge&logo=github&logoColor=white" alt="SAGE Product Showcase" />
